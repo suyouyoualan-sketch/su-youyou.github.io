@@ -1,34 +1,41 @@
 {
   "site": {
     "language": "en",
-    "title": "Su Youyou · Researcher",
-    "description": "Su Youyou — researcher and independent scholar."
+    "title": "Su Youyou",
+    "description": "Su Youyou — Undergraduate in physics and math @ NTU"
   },
   "profile": {
     "name": "Su Youyou",
-    "nameZh": "苏悠悠",
-    "role": "Researcher",
-    "headline": "Research guided by careful inquiry, clear communication, and real-world relevance.",
-    "affiliation": "Independent Researcher",
-    "location": "",
-    "email": "",
-    "portrait": "",
-    "cv": ""
+    "nameZh": "苏有友",
+    "role": "Undergraduate",
+    "headline": "Quantum information and Geometry",
+    "affiliation": "NTU Singapore",
+    "location": "Singapore",
+    "email": "ysu015@e.ntu.edu.sg",
+    "cv": "./assets/uploads/SuYouyouCV_Oct30.pdf"
   },
   "about": [
-    "I work on research questions that connect rigorous analysis with real-world problems. This page brings together my current interests, selected work, and professional experience.",
-    "My approach values precise methods, interdisciplinary thinking, and writing that makes complex ideas easier to understand."
+    "I enjoy studying physics and mathematics, especially the problems that torture me.",
+    "I also love playing the piano and fencing.",
+    "I have two parrots in China."
   ],
   "researchInterests": [
-    { "name": "Interdisciplinary research" },
-    { "name": "Human-centered inquiry" },
-    { "name": "Evidence-based practice" }
+    {
+      "name": "Quantum Information"
+    },
+    {
+      "name": "Geometry"
+    },
+    {
+      "name": "Piano"
+    },
+    {
+      "name": "Fencing"
+    },
+    {
+      "name": "Cute animals"
+    }
   ],
-  "publications": [],
-  "allPublicationsUrl": "",
-  "projects": [],
-  "experience": [],
-  "education": [],
   "links": [
     {
       "label": "GitHub",
