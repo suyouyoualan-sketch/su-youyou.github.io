@@ -1,0 +1,38 @@
+{
+  "site": {
+    "language": "en",
+    "title": "Su Youyou · Researcher",
+    "description": "Su Youyou — researcher and independent scholar."
+  },
+  "profile": {
+    "name": "Su Youyou",
+    "nameZh": "苏悠悠",
+    "role": "Researcher",
+    "headline": "Research guided by careful inquiry, clear communication, and real-world relevance.",
+    "affiliation": "Independent Researcher",
+    "location": "",
+    "email": "",
+    "portrait": "",
+    "cv": ""
+  },
+  "about": [
+    "I work on research questions that connect rigorous analysis with real-world problems. This page brings together my current interests, selected work, and professional experience.",
+    "My approach values precise methods, interdisciplinary thinking, and writing that makes complex ideas easier to understand."
+  ],
+  "researchInterests": [
+    { "name": "Interdisciplinary research" },
+    { "name": "Human-centered inquiry" },
+    { "name": "Evidence-based practice" }
+  ],
+  "publications": [],
+  "allPublicationsUrl": "",
+  "projects": [],
+  "experience": [],
+  "education": [],
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/suyouyoualan-sketch"
+    }
+  ]
+}

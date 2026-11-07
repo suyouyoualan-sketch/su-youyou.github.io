@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Su Youyou — researcher and independent scholar.">
+    <meta name="color-scheme" content="light">
+    <title>Su Youyou · Researcher</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./styles.css">
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="site-name" href="#top" data-text="profile.name">Su Youyou</a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <a href="#about">About</a>
+          <a href="#research">Research</a>
+          <a href="#publications" data-section-link="publications">Publications</a>
+          <a href="#experience" data-section-link="experience">Experience</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero shell" id="top" aria-labelledby="profile-name">
+        <div class="hero-copy">
+          <p class="eyebrow" data-text="profile.role">Researcher</p>
+          <h1 id="profile-name" data-text="profile.name">Su Youyou</h1>
+          <p class="name-secondary" data-text="profile.nameZh"></p>
+          <p class="lead" data-text="profile.headline"></p>
+          <p class="affiliation" data-text="profile.affiliation"></p>
+          <div class="hero-actions" id="hero-actions"></div>
+        </div>
+        <div class="portrait-wrap" id="portrait-wrap" aria-hidden="true">
+          <img class="portrait" id="portrait" alt="">
+          <div class="portrait-fallback" id="portrait-fallback">SY</div>
+        </div>
+      </section>
+
+      <div class="shell content-grid">
+        <div class="main-column">
+          <section class="content-section" id="about" aria-labelledby="about-title">
+            <h2 id="about-title">About</h2>
+            <div class="prose" id="bio"></div>
+          </section>
+
+          <section class="content-section" id="research" aria-labelledby="research-title">
+            <h2 id="research-title">Research interests</h2>
+            <ul class="tag-list" id="research-interests"></ul>
+          </section>
+
+          <section class="content-section" id="publications" aria-labelledby="publications-title">
+            <div class="section-heading">
+              <h2 id="publications-title">Selected publications</h2>
+              <a class="text-link" id="all-publications-link" href="#">View all</a>
+            </div>
+            <ol class="publication-list" id="publication-list"></ol>
+          </section>
+
+          <section class="content-section" id="projects" aria-labelledby="projects-title">
+            <h2 id="projects-title">Selected projects</h2>
+            <div class="project-list" id="project-list"></div>
+          </section>
+
+          <section class="content-section" id="experience" aria-labelledby="experience-title">
+            <h2 id="experience-title">Experience</h2>
+            <div class="timeline" id="experience-list"></div>
+          </section>
+
+          <section class="content-section" id="education" aria-labelledby="education-title">
+            <h2 id="education-title">Education</h2>
+            <div class="timeline" id="education-list"></div>
+          </section>
+        </div>
+
+        <aside class="sidebar" aria-label="Profile details">
+          <section class="sidebar-section" id="contact">
+            <h2>Contact</h2>
+            <dl class="detail-list" id="contact-list"></dl>
+          </section>
+          <section class="sidebar-section" id="links-section">
+            <h2>Profiles</h2>
+            <ul class="link-list" id="profile-links"></ul>
+          </section>
+        </aside>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <p>© <span id="current-year"></span> <span data-text="profile.name">Su Youyou</span></p>
+        <a class="editor-link" href="https://app.pagescms.org/" target="_blank" rel="noopener noreferrer">
+          Edit content
+        </a>
+      </div>
+    </footer>
+
+    <noscript>
+      <p class="noscript">This site needs JavaScript to load its content.</p>
+    </noscript>
+  </body>
+</html>
