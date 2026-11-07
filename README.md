@@ -10,6 +10,8 @@ A minimal, dependency-free researcher homepage for GitHub Pages.
 4. Use the portrait, CV, and publication PDF fields to upload files. Uploads are stored in `assets/uploads`.
 5. Save the change. Pages CMS commits it to GitHub, and GitHub Pages rebuilds the site automatically.
 
+The media output uses a relative path so uploaded files work when this repository is published as a GitHub Pages project site under `/su-youyou.github.io/`.
+
 The **Edit content** link in the website footer opens Pages CMS. GitHub permissions protect editing; visitors can see the link but cannot change the repository.
 
 ## Local preview
