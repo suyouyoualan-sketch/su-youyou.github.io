@@ -12,6 +12,7 @@
     "affiliation": "NTU Singapore",
     "location": "Singapore",
     "email": "ysu015@e.ntu.edu.sg",
+    "photo": "",
     "cv": "./assets/uploads/SuYouyouCV_Oct30.pdf"
   },
   "about": [
@@ -36,6 +37,9 @@
       "name": "Cute animals"
     }
   ],
+  "publications": [],
+  "projects": [],
+  "education": [],
   "links": [
     {
       "label": "GitHub",
