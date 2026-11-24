@@ -12,8 +12,7 @@
     "affiliation": "NTU Singapore",
     "location": "Singapore",
     "email": "ysu015@e.ntu.edu.sg",
-    "photo": "",
-    "cv": "./assets/uploads/SuYouyouCV_Oct30.pdf"
+    "cv": "./assets/uploads/SuYouyouCV_Nov21.pdf"
   },
   "about": [
     "I enjoy studying physics and mathematics, especially the problems that torture me.",
@@ -37,9 +36,25 @@
       "name": "Cute animals"
     }
   ],
-  "publications": [],
-  "projects": [],
-  "education": [],
+  "projects": [
+    {
+      "title": "[Report] Course Project: Double Bracket Flow",
+      "period": "Nov 2026",
+      "file": "./assets/uploads/Project--Double_Bracket_Flow/[Report]_Double_Bracket_Flow.pdf"
+    },
+    {
+      "title": "[Slides] Course Project: Double Bracket Flow",
+      "period": "Nov 2026",
+      "file": "./assets/uploads/Project--Double_Bracket_Flow/[Slides]_Double_Bracket_Flow.pdf"
+    }
+  ],
+  "education": [
+    {
+      "period": "2024 - 2028",
+      "title": "BSc. in Physics and Mathematics",
+      "organization": "NTU Singapore"
+    }
+  ],
   "links": [
     {
       "label": "GitHub",
