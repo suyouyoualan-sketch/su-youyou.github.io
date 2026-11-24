@@ -18,23 +18,6 @@
     "I also love playing the piano and fencing.",
     "I have two parrots in China."
   ],
-  "researchInterests": [
-    {
-      "name": "Quantum Information"
-    },
-    {
-      "name": "Geometry"
-    },
-    {
-      "name": "Piano"
-    },
-    {
-      "name": "Fencing"
-    },
-    {
-      "name": "Cute animals"
-    }
-  ],
   "projects": [
     {
       "title": "[Report] Course Project: Double Bracket Flow",
